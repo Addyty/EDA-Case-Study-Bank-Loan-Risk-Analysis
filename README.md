@@ -1,4 +1,4 @@
-# EDA-Case-Study-Gramener-Case-Study
+# EDA Case Study Bank Loan Risk Analysis
 Kaggle Dataset
 
 Introduction
